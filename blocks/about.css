@@ -24,7 +24,7 @@
 }
 
 .about__content {
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   font-weight: normal;
